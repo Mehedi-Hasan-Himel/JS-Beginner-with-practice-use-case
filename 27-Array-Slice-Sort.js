@@ -13,4 +13,3 @@ var resultSlice = numArray.slice(2, 5);
 document.write(resultSlice);
 
 
-// this file name : 27-Array-Slice-Sort.js
